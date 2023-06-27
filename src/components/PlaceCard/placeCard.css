@@ -6,12 +6,31 @@
 
   text-align: center;
 
-  font-size: 50px;
+  font-size: 40px;
   padding-top: 40px;
   padding-bottom: 40px;
 }
 
 .place-img {
-  width: 10%;
-  height: 10%;
+  width: 75%;
+  margin-bottom: 30px;
+}
+
+.place-title {
+  margin-bottom: 30px;
+}
+
+.map-link {
+  font-weight: normal;
+}
+
+.place-desc {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+
+  text-align: center;
+  font-size: 30px;
+
+  padding-top: 40px;
 }
