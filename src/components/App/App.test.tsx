@@ -1,4 +1,4 @@
-import { render, screen } from "../testUtils/testUtils";
+import { render, screen } from "../../testUtils/testUtils";
 import App from "./App";
 
 //An example of using react-testing-library
